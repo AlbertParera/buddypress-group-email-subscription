@@ -1,0 +1,942 @@
+# Copyright (C) 2015 BuddyPress Group Email Subscription
+# This file is distributed under the same license as the BuddyPress Group Email Subscription package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Group Email Subscription 3.5.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/buddypress-group-"
+"email-subscription\n"
+"POT-Creation-Date: 2015-09-29 15:12:27+00:00\n"
+"PO-Revision-Date: 2015-10-12 22:20+0100\n"
+"Last-Translator: Albert Parera <parera@telefonica.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: bp-activity-subscription-digest.php:59
+msgid "Your daily digest of group activity"
+msgstr "El vostre resum diari de l'activitat del grup"
+
+#: bp-activity-subscription-digest.php:61
+msgid "Your weekly summary of group topics"
+msgstr "El vostre resum setmanal dels temes del grup"
+
+#: bp-activity-subscription-digest.php:69
+msgid ""
+"You have received this message because you are subscribed to receive a "
+"digest of activity in some of your groups on %s."
+msgstr ""
+"Heu rebut aquest missatge perquè us heu subscrit per rebre un resum de "
+"l'activitat en alguns dels vostres grups a %s."
+
+#: bp-activity-subscription-digest.php:170
+msgid "at"
+msgstr "a"
+
+#: bp-activity-subscription-digest.php:184
+msgid "(%s items)"
+msgstr "(%s elements)"
+
+#: bp-activity-subscription-digest.php:195
+msgid "Group Summary"
+msgstr "Resum del grup"
+
+#: bp-activity-subscription-digest.php:203
+msgid ""
+"How to follow a topic: to get email updates for a specific topic, click the "
+"topic title - then on the webpage click the <i>Follow this topic</i> button. "
+"(If you don't see the button you need to login first.)"
+msgstr ""
+"Com seguir un tema: Per obtenir actualitzacions per a un tema específic, feu "
+"clic al títol del tema - a continuació, a la pàgina feu clic al botó  "
+"<i>Segueix aquest tema</i> (Si no veieu el botó és perquè primer cal que "
+"inicieu sessió.) "
+
+#: bp-activity-subscription-digest.php:208
+msgid ""
+"To disable these notifications per group please login and go to: %s where "
+"you can change your email settings for each group."
+msgstr ""
+"Per desactivar aquestes notificacions per grupinicieu sessió i aneu a %a on "
+"es pot canviar la configuració de correu electrònic per a cada grup."
+
+#: bp-activity-subscription-digest.php:208
+#: bp-activity-subscription-functions.php:1804
+msgid "My Groups"
+msgstr "Els meus Grups"
+
+#: bp-activity-subscription-digest.php:212
+msgid "Disable these notifications for all my groups at once."
+msgstr "Desactiva aquestes notificacions per tots els meus grups alhora."
+
+#: bp-activity-subscription-digest.php:261
+msgid "DAILY DIGEST:"
+msgstr "RESUM DIARI:"
+
+#: bp-activity-subscription-digest.php:263
+msgid "WEEKLY DIGEST:"
+msgstr "RESUM SETMANAL:"
+
+#: bp-activity-subscription-digest.php:299
+msgid "Group: %s"
+msgstr "Grup: %s"
+
+#: bp-activity-subscription-digest.php:301
+msgid "Group: %s weekly summary"
+msgstr "Grup: Resum semanal de %s"
+
+#: bp-activity-subscription-digest.php:306
+msgid "To disable these notifications for this group click "
+msgstr "Per deshabilitar aquetes notificacions per aquest grup feu clic "
+
+#: bp-activity-subscription-digest.php:306
+msgid "unsubscribe"
+msgstr "Cancel·la la subscripció"
+
+#: bp-activity-subscription-digest.php:307
+msgid "change "
+msgstr "canvia "
+
+#: bp-activity-subscription-digest.php:307
+msgid "email options"
+msgstr "opcions d'email"
+
+#: bp-activity-subscription-digest.php:377
+#: bp-activity-subscription-digest.php:417
+msgid "at %s, %s"
+msgstr "a %s, (%s)"
+
+#: bp-activity-subscription-digest.php:386
+#: bp-activity-subscription-digest.php:388
+#: bp-activity-subscription-digest.php:426
+#: bp-activity-subscription-digest.php:428
+msgid "View"
+msgstr "Veure"
+
+#: bp-activity-subscription-digest.php:567
+msgid "Once Weekly"
+msgstr "Un cop per setmana"
+
+#: bp-activity-subscription-functions.php:20
+msgid "To disable all notifications for this group, click: %s"
+msgstr ""
+"Per desactivar totes les notificacions per a aquest grup, feu clic a: %s"
+
+#: bp-activity-subscription-functions.php:24
+msgid "Or to disable notifications for *all* your groups, click: %s"
+msgstr ""
+"O per deshabilitar les notificacions per *Tots* els teus grups, fes clic a: "
+"%s"
+
+#: bp-activity-subscription-functions.php:102
+msgid "%s started the forum topic \"%s\" in the group \"%s\""
+msgstr "%s ha iniciat el tema del fòrum \"%s\" en el grup \"%s\""
+
+#: bp-activity-subscription-functions.php:113
+msgid "%s replied to the forum topic \"%s\" in the group \"%s\""
+msgstr "%s ha respost al tema del fòrum \"%s\" en el grup \"%s\""
+
+#: bp-activity-subscription-functions.php:138
+msgid "To view or reply to this topic, go to:"
+msgstr "Per veure o respondre a aquest tema, aneu a:"
+
+#: bp-activity-subscription-functions.php:142
+msgid "To view or reply to this topic, log in and go to:"
+msgstr "Per veure o respondre a aquest tema, inicieu sesisó i aneu a:"
+
+#: bp-activity-subscription-functions.php:146
+msgid ""
+"%s\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"%s\n"
+"%s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%s\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"%s\n"
+"%s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity-subscription-functions.php:214
+#: bp-activity-subscription-functions.php:514
+msgid "You are currently receiving notifications for your own posts."
+msgstr ""
+"Actualment esteu rebent notificacions per als vostres propis missatges."
+
+#: bp-activity-subscription-functions.php:215
+#: bp-activity-subscription-functions.php:269
+#: bp-activity-subscription-functions.php:283
+#: bp-activity-subscription-functions.php:297
+#: bp-activity-subscription-functions.php:515
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+"Per deshabilitar aquestes notificacions cal que inicieu sessió i aneu a: %s"
+
+#: bp-activity-subscription-functions.php:216
+#: bp-activity-subscription-functions.php:516
+msgid ""
+"Once you are logged in, uncheck \"Receive notifications of your own posts?\"."
+msgstr ""
+"Una vegada que heu iniciat sessió, desmarqueu \"Voleu rebre notificacions "
+"dels vostres propis missatges?\"."
+
+#: bp-activity-subscription-functions.php:223
+#: bp-activity-subscription-functions.php:254
+#: bp-activity-subscription-functions.php:531
+msgid "Your email setting for this group is: "
+msgstr "La vostra configuració de correu electrònic per a aquest grup és:"
+
+#: bp-activity-subscription-functions.php:227
+msgid ""
+", therefore you won't receive replies to this topic. To get them, click the "
+"link to view this topic on the web then click the 'Follow this topic' button."
+msgstr ""
+", per tant no rebreu respostes d'aquest tema. Per rebre-les, feu clic a "
+"l'enllaç per veure aquest tema a la web i després feu clic al botó 'Segueix "
+"aquest tema'."
+
+#: bp-activity-subscription-functions.php:231
+#: bp-activity-subscription-functions.php:255
+#: bp-activity-subscription-functions.php:532
+msgid ""
+"To change your email setting for this group, please log in and go to: %s"
+msgstr ""
+"Per canviar la configuració de correu electrònic per a aquest grup, si us "
+"plau inicieu sessió i aneu a: %s"
+
+#: bp-activity-subscription-functions.php:270
+msgid ""
+"Once you are logged in, click on the \"Mute this topic\" button to "
+"unsubscribe from the forum thread."
+msgstr ""
+"Una vegada que heu iniciat sessió, feu clic al botó \"Silenciar aquest tema"
+"\" per donar-se de baixa del fil del fòrum."
+
+#: bp-activity-subscription-functions.php:282
+msgid ""
+"You are currently receiving notifications to topics that you have started."
+msgstr "Actualment esteu rebent notificacions dels temes que heu iniciat."
+
+#: bp-activity-subscription-functions.php:284
+msgid ""
+"Once you are logged in, uncheck \"A member replies in a forum topic you've "
+"started\"."
+msgstr ""
+"Una vegada que hagueu iniciat sessió, desmarqueu \"Un membre ha contestat a "
+"un tema del fòrum que tu has iniciat\"."
+
+#: bp-activity-subscription-functions.php:296
+msgid ""
+"You are currently receiving notifications to topics that you have replied in."
+msgstr "Actualment esteu rebent notificacions dels temes que heu respost."
+
+#: bp-activity-subscription-functions.php:298
+msgid ""
+"Once you are logged in, uncheck \"A member replies after you in a forum topic"
+"\"."
+msgstr ""
+"Una vegada que hagueu iniciat sessió, desmarqueu \"Després de tu, un membre "
+"ha respost en un tema del fòrum\"."
+
+#: bp-activity-subscription-functions.php:406
+msgid "in the group"
+msgstr "pel grup"
+
+#: bp-activity-subscription-functions.php:427
+msgid ""
+"%1$s\n"
+"\n"
+"To view or reply, log in and go to:\n"
+"%2$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s\n"
+"\n"
+"Per veure o respondre, inicieu sessió i aneu a:\n"
+"%2$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity-subscription-functions.php:436
+msgid ""
+"%1$s\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"To view or reply, log in and go to:\n"
+"%3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%1$s\n"
+"\n"
+"\"%2$s\"\n"
+"\n"
+"Per veure o respondre, inicieu sessió i aneu a:\n"
+"%3$s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity-subscription-functions.php:864
+msgid "Email Subscription Options"
+msgstr "Opcions de subscripció per email"
+
+#: bp-activity-subscription-functions.php:869
+msgid "How do you want to read this group?"
+msgstr "Com voleu llegir aquest grup?"
+
+#: bp-activity-subscription-functions.php:872
+#: bp-activity-subscription-functions.php:941
+#: bp-activity-subscription-functions.php:1000
+#: bp-activity-subscription-functions.php:1662
+msgid "No Email"
+msgstr "No vull rebre emails"
+
+#: bp-activity-subscription-functions.php:873
+#: bp-activity-subscription-functions.php:1000
+msgid "I will read this group on the web"
+msgstr "Llegiré aquest grup al web"
+
+#: bp-activity-subscription-functions.php:877
+msgid "Weekly Summary Email"
+msgstr "Resum setmanal per email"
+
+#: bp-activity-subscription-functions.php:878
+msgid "Get a summary of new topics each week"
+msgstr "Vull rebre un resum dels temes nous cada semana"
+
+#: bp-activity-subscription-functions.php:882
+msgid "Daily Digest Email"
+msgstr "Resum diari per email"
+
+#: bp-activity-subscription-functions.php:883
+msgid "Get all the day's activity bundled into a single email"
+msgstr "Vull rebre tota l'activitat del dia en un sol correu electrònic"
+
+#: bp-activity-subscription-functions.php:888
+msgid "New Topics Email"
+msgstr "Nous temes"
+
+#: bp-activity-subscription-functions.php:889
+msgid "Send new topics as they arrive (but don't send replies)"
+msgstr ""
+"Vull rebre els temes nous a així que es crein (però m'enviïs les respostes)"
+
+#: bp-activity-subscription-functions.php:894
+#: bp-activity-subscription-functions.php:949
+#: bp-activity-subscription-functions.php:1008
+#: bp-activity-subscription-functions.php:1670
+msgid "All Email"
+msgstr "Tot per email"
+
+#: bp-activity-subscription-functions.php:895
+#: bp-activity-subscription-functions.php:1008
+msgid "Send all group activity as it arrives"
+msgstr "Vull rebre tota l'activitat del grup inmediatament a través de email"
+
+#: bp-activity-subscription-functions.php:898
+#: bp-activity-subscription-functions.php:2402
+msgid "Save Settings"
+msgstr "Desar ajustos"
+
+#: bp-activity-subscription-functions.php:901
+msgid ""
+"Note: Normally, you receive email notifications for topics you start or "
+"comment on. This can be changed at"
+msgstr ""
+"Nota: Normalment rebreu las notificacions dels temes que heu iniciat o "
+"aquells en els que hagueu participat. Això ho podeu canviar a"
+
+#: bp-activity-subscription-functions.php:901
+msgid "email notifications"
+msgstr "notificacions per email"
+
+#: bp-activity-subscription-functions.php:929
+msgid "Your email notifications are set to %s for this group."
+msgstr ""
+"Les teves notificacions per correu electrònic estan establides %s per a "
+"aquest grup."
+
+#: bp-activity-subscription-functions.php:943
+#: bp-activity-subscription-functions.php:1001
+msgid "Weekly Summary"
+msgstr "Resum setmanal"
+
+#: bp-activity-subscription-functions.php:945
+#: bp-activity-subscription-functions.php:1002
+msgid "Daily Digest"
+msgstr "Resum diari"
+
+#: bp-activity-subscription-functions.php:947
+#: bp-activity-subscription-functions.php:1005
+#: bp-activity-subscription-functions.php:1667
+msgid "New Topics"
+msgstr "Nous temes"
+
+#: bp-activity-subscription-functions.php:978
+msgid "Your email status is "
+msgstr "El vostre status de email és "
+
+#: bp-activity-subscription-functions.php:979
+msgid "change"
+msgstr "canviar"
+
+#: bp-activity-subscription-functions.php:985
+msgid "Get email updates"
+msgstr "Vull rebre actualitzacions per email"
+
+#: bp-activity-subscription-functions.php:996
+msgid "Change your email subscription options for this group"
+msgstr "Canvieu les vostres opcions de subscripció per email per aquest grup"
+
+#: bp-activity-subscription-functions.php:1001
+msgid "Get a summary of topics each"
+msgstr "Vull rebre un resum dels temes cada"
+
+#: bp-activity-subscription-functions.php:1002
+msgid "Get the day's activity bundled into one email"
+msgstr "Vull rebre tota l'activitat diària en un sol correu"
+
+#: bp-activity-subscription-functions.php:1005
+msgid "Send new topics as they arrive (but no replies)"
+msgstr ""
+"Envia els nous temes a mida que es vagin creant (però no les respostes)"
+
+#: bp-activity-subscription-functions.php:1009
+msgid "close"
+msgstr "tanca"
+
+#: bp-activity-subscription-functions.php:1083
+msgid "You successfully joined the group. Your group email status is: "
+msgstr ""
+"T'has afegit al grup correctament. El teu estat de correu electrònic de grup "
+"és:"
+
+#: bp-activity-subscription-functions.php:1094
+msgid "Email Subscription Defaults"
+msgstr "Configuració de subscripció predeterminada"
+
+#: bp-activity-subscription-functions.php:1095
+msgid ""
+"When new users join this group, their default email notification settings "
+"will be:"
+msgstr ""
+"Quan els nous usuaris s'uneixen a aquest grup, els paràmetres de notificació "
+"per correu electrònic per defecte seran: "
+
+#: bp-activity-subscription-functions.php:1098
+msgid "No Email (users will read this group on the web - good for any group)"
+msgstr ""
+"No vull rebre cap correu electrònic (els usuaris llegiran aquest grup al web "
+"- recomanat per a qualsevol grup) "
+
+#: bp-activity-subscription-functions.php:1100
+msgid "Weekly Summary Email (the week's topics - good for large groups)"
+msgstr "Resum setmanal (els temes de la setmana - recomanat per a grups grans)"
+
+#: bp-activity-subscription-functions.php:1102
+msgid ""
+"Daily Digest Email (all daily activity bundles in one email - good for "
+"medium-size groups)"
+msgstr ""
+"Resum diari (tota l'activitat del dia en un únic email - recomanat per a "
+"grups mitjans)"
+
+#: bp-activity-subscription-functions.php:1106
+msgid ""
+"New Topics Email (new topics are sent as they arrive, but not replies - good "
+"for small groups)"
+msgstr ""
+"Nous temes (s'enviaran els nous temes, però no les respostes - recomanat per "
+"grups petits)"
+
+#: bp-activity-subscription-functions.php:1110
+msgid ""
+"All Email (send emails about everything - recommended only for working "
+"groups)"
+msgstr ""
+"Tot per email (envia emails de cada activitat del grup - recomanat per a "
+"grups de treball)"
+
+#: bp-activity-subscription-functions.php:1371
+#: bp-activity-subscription-main.php:74
+msgid "Follow"
+msgstr "Seguiu"
+
+#: bp-activity-subscription-functions.php:1372
+msgid ""
+"You are not following this topic. Click to follow it and get email updates "
+"for new posts"
+msgstr ""
+"No esteu seguint aquest tema. Feu clic aquí per seguir-lo i obtenir alertes "
+"de nous missatges"
+
+#: bp-activity-subscription-functions.php:1375
+#: bp-activity-subscription-main.php:73
+msgid "Mute"
+msgstr "Silenciar"
+
+#: bp-activity-subscription-functions.php:1376
+msgid "You are following this topic. Click to stop getting email updates"
+msgstr ""
+"Esteu seguint aquest tema. Feu clic aquí per deixar de rebre alertes per "
+"email"
+
+#: bp-activity-subscription-functions.php:1382
+msgid "This conversation is muted. Click to follow it"
+msgstr "Aquesta conversa està silenciada. Cliqueu per seguir-la"
+
+#: bp-activity-subscription-functions.php:1386
+msgid "this topic"
+msgstr "aquest tema"
+
+#: bp-activity-subscription-functions.php:1404
+msgid "Email"
+msgstr "Email"
+
+#: bp-activity-subscription-functions.php:1614
+#: bp-activity-subscription-functions.php:1660
+msgid "Email status:"
+msgstr "Status del email:"
+
+#: bp-activity-subscription-functions.php:1661
+msgid "Change to:"
+msgstr "Canviar a:"
+
+#: bp-activity-subscription-functions.php:1663
+msgid "Weekly"
+msgstr "Setmanal"
+
+#: bp-activity-subscription-functions.php:1664
+msgid "Daily"
+msgstr "Diari"
+
+#: bp-activity-subscription-functions.php:1707
+msgid "User email status changed successfully"
+msgstr "Estat de correu electrònic de l'usuari canviat correctament"
+
+#: bp-activity-subscription-functions.php:1753
+msgid ""
+"Site Admin Only: update email subscription settings for ALL members to the "
+"default:"
+msgstr ""
+"Només pels usuaris Administradors del lloc: Actualitzeu la configuració de "
+"subscripció de correu electrònic per a TOTS els membres als valors "
+"predeterminats:"
+
+#: bp-activity-subscription-functions.php:1753
+msgid "Warning: this is not reversible so use with caution."
+msgstr ""
+"Avís: Aquesta acció no és reversible, per tant utilitzeu-la amb precaució."
+
+#: bp-activity-subscription-functions.php:1753
+msgid "Make it so!"
+msgstr "Fes-ho!"
+
+#: bp-activity-subscription-functions.php:1780
+msgid "All user email status's changed successfully"
+msgstr "El status d'email de tots els membres s'ha canviat correctament"
+
+#: bp-activity-subscription-functions.php:1796
+msgid "Individual Group Email Settings"
+msgstr "Configuració de email de grups individuals"
+
+#: bp-activity-subscription-functions.php:1804
+msgid ""
+"To change the email notification settings for your groups, go to %s and "
+"click \"Change\" for each group."
+msgstr ""
+"Per canviar la configuració de les notificacions per correu electrònic per "
+"als vostres grups, aneu a %s i feu clic a \"Canviar\" per a cada grup."
+
+#: bp-activity-subscription-functions.php:1807
+msgid "Or set all your group's email options to No Email"
+msgstr ""
+"O establiu totes les opcions de correu electrònic dels vostres grups a 'No "
+"vull rebre'"
+
+#: bp-activity-subscription-functions.php:1843
+msgid "You have been unsubscribed from all groups notifications."
+msgstr "Heu cancel·lat la subscripció de les notificacions de tots els grups."
+
+#: bp-activity-subscription-functions.php:1845
+msgid "This user's has been unsubscribed from all groups notifications."
+msgstr ""
+"S'ha cancel·lat la subscripció d'aquests usuaris de les notificacions de "
+"tots els grups."
+
+#: bp-activity-subscription-functions.php:1873
+msgid ""
+"Your unsubscription was successful. You will no longer receive email "
+"notifications from the group %s."
+msgstr ""
+"La vostra subscripció ha estat cancel·lada correctament. Ja no rebreu més "
+"notificacions del grup %s."
+
+#: bp-activity-subscription-functions.php:1875
+#: bp-activity-subscription-functions.php:1888
+msgid "<a href=\"%1$s\">Continue to %2$s</a>"
+msgstr "<a href=\"%1$s\">Continua a %2$s</a>"
+
+#: bp-activity-subscription-functions.php:1886
+msgid ""
+"Your unsubscription was successful. You will no longer receive email "
+"notifications from any of your groups."
+msgstr ""
+"La vostra subscripció ha estat cancel·lada correctament. Ja no rebreu més "
+"notificacions de qualsevol dels vostres grups."
+
+#: bp-activity-subscription-functions.php:1898
+msgid "Unsubscribe from all groups notifications"
+msgstr "Cancel·leu la subscripció de totes les notificacions dels grups"
+
+#: bp-activity-subscription-functions.php:1912
+msgid "Unsubscribe"
+msgstr "Cancel·la la subscripció"
+
+#: bp-activity-subscription-functions.php:1917
+msgid "Do you really want to unsubscribe from all groups notifications?"
+msgstr ""
+"Esteu segur que voleu cancel·lar la subscripció de tots els grups de "
+"notificacions?"
+
+#: bp-activity-subscription-functions.php:1922
+msgid "Yes, unsubscribe from all my groups"
+msgstr "Si. Cancel·la la subscripció a tots els meus grups"
+
+#: bp-activity-subscription-functions.php:1923
+msgid "No, close"
+msgstr "No. Tanca"
+
+#: bp-activity-subscription-functions.php:1956
+msgid "Send an email notice to everyone in the group"
+msgstr "Envia una notificació de correu electrònic a tots en el grup"
+
+#: bp-activity-subscription-functions.php:1957
+msgid ""
+"You can use the form below to send an email notice to all group members."
+msgstr ""
+"Podeu utilitzar el següent formulari per a enviar una notificació per correu "
+"electrònic a tots els membres del grup."
+
+#: bp-activity-subscription-functions.php:1958
+msgid ""
+"Everyone in the group will receive the email -- regardless of their email "
+"settings -- so use with caution"
+msgstr ""
+"Tothom del grup rebrà el correu electrònic -- independentment de la "
+"configuració tingui cadascú -- per tant, utilitzeu-ho amb precaució"
+
+#: bp-activity-subscription-functions.php:1961
+#: bp-activity-subscription-functions.php:1990
+msgid "Email Subject:"
+msgstr "Assumpte del correu:"
+
+#: bp-activity-subscription-functions.php:1966
+#: bp-activity-subscription-functions.php:1995
+msgid "Email Content:"
+msgstr "Contingut del correu:"
+
+#: bp-activity-subscription-functions.php:1971
+msgid "Email this notice to everyone in the group"
+msgstr "Enviar aquest avís a tothom del grup"
+
+#: bp-activity-subscription-functions.php:1979
+msgid "Welcome Email"
+msgstr "Correu electrònic de benvinguda"
+
+#: bp-activity-subscription-functions.php:1980
+msgid "Send an email when a new member join the group."
+msgstr "Envia un correu electrònic quan un nou membre s'uneixi al grup."
+
+#: bp-activity-subscription-functions.php:1985
+msgid "Enable welcome email"
+msgstr "Habilitar correu electrònic de benvinguda"
+
+#: bp-activity-subscription-functions.php:2000
+msgid "Save"
+msgstr "Desa"
+
+#: bp-activity-subscription-functions.php:2025
+msgid "The email notice was sent not sent. Please enter email content."
+msgstr ""
+"Aquesta notificació no ha estat enviada perquè falta el contingut del correu "
+"electrònic."
+
+#: bp-activity-subscription-functions.php:2038
+msgid " - sent from the group "
+msgstr " - enviat des del grup "
+
+#: bp-activity-subscription-functions.php:2044
+msgid ""
+"This is a notice from the group '%s':\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"\n"
+"To view this group log in and follow the link below:\n"
+"%s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Aquesta és una notificació del grup '%s':\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"\n"
+"Per veure aquest grup, inicieu sessió i seguiu el següent enllaç:\n"
+"%s\n"
+"\n"
+"---------------------\n"
+
+#: bp-activity-subscription-functions.php:2056
+msgid ""
+"Please note: admin notices are sent to everyone in the group and cannot be "
+"disabled.\n"
+"If you feel this service is being misused please speak to the website "
+"administrator."
+msgstr ""
+"Important: Les notificacions que enviades pels administrador les reben tots "
+"els membres del grup i no es poden desactivar.\n"
+"Si creieu que aquest servei està sent utilitzat de forma indeguda, si us "
+"plau, comuniqueu-ho a l'administrador del web \"."
+
+#: bp-activity-subscription-functions.php:2074
+msgid "The email notice was sent successfully."
+msgstr "La notificació per correu electrònic s'ha enviat correctament."
+
+#: bp-activity-subscription-functions.php:2099
+msgid "The welcome email option has been saved."
+msgstr "L'opció de correu electrònic de benvinguda s'ha desat."
+
+#: bp-activity-subscription-functions.php:2130
+msgid "To disable emails from all your groups at once click: %s"
+msgstr ""
+"Per desactivar els correus electrònics de tots els grups alhora, feu clic a: "
+"%s"
+
+#: bp-activity-subscription-functions.php:2198
+msgid "Group Forum"
+msgstr "Fòrum del grup"
+
+#: bp-activity-subscription-functions.php:2199
+msgid "Yes"
+msgstr "Sí"
+
+#: bp-activity-subscription-functions.php:2200
+msgid "No"
+msgstr "No"
+
+#: bp-activity-subscription-functions.php:2222
+msgid "A member replies in a forum topic you've started"
+msgstr "Un membre de respost en un tema del fòrum que tu has iniciat"
+
+#: bp-activity-subscription-functions.php:2229
+msgid "A member replies after you in a forum topic"
+msgstr "Un membre ha respost després de tu en un tema del fòrum"
+
+#: bp-activity-subscription-functions.php:2238
+msgid "Receive notifications of your own posts?"
+msgstr "Voleu rebre notificacions dels vostres propis missatges?"
+
+#: bp-activity-subscription-functions.php:2295
+msgid "Group Email Options"
+msgstr "Opcions de Email de Grups"
+
+#: bp-activity-subscription-functions.php:2309
+msgid "Settings saved."
+msgstr "Ajustos desats."
+
+#: bp-activity-subscription-functions.php:2327
+msgid "Group Email Subscription Settings"
+msgstr "Configuració de subscripció per email del grup"
+
+#: bp-activity-subscription-functions.php:2332
+msgid "Digests & Summaries"
+msgstr "Resums i reculls"
+
+#: bp-activity-subscription-functions.php:2334
+msgid ""
+"View queued digest items</a></b> (in new window)<br>As admin, you can see "
+"what is currently in the email queue by adding ?sum=1 to your url. This will "
+"not fire the digest, it will just show you what is waiting to be sent."
+msgstr ""
+"Ver resums en cua</a></b> (en una nova finestra)<br>Com a Administrador, "
+"podeu veure el que actualment està en cua d'enviament amb només afegir ?"
+"sum=1 a la url. Això no enviarà el resum. Només mostrarà el que està "
+"esperant a ser enviat."
+
+#: bp-activity-subscription-functions.php:2338
+msgid "<strong>Daily Digests</strong> should be sent at this time:"
+msgstr "Els <strong>resums diaris</strong> s'enviaràn a aquesta hora:"
+
+#: bp-activity-subscription-functions.php:2355
+msgid "<strong>Weekly Summaries</strong> should be sent on:"
+msgstr "Els <strong>resums setmanals</strong> s'enviaràn el:"
+
+#: bp-activity-subscription-functions.php:2359
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2458
+msgid "Monday"
+msgstr "Dilluns"
+
+#: bp-activity-subscription-functions.php:2360
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2460
+msgid "Tuesday"
+msgstr "Dimarts"
+
+#: bp-activity-subscription-functions.php:2361
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2462
+msgid "Wednesday"
+msgstr "Dimecres"
+
+#: bp-activity-subscription-functions.php:2362
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2464
+msgid "Thursday"
+msgstr "Dijous"
+
+#: bp-activity-subscription-functions.php:2363
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2466
+msgid "Friday"
+msgstr "Divendres"
+
+#: bp-activity-subscription-functions.php:2364
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2468
+msgid "Saturday"
+msgstr "Dissabte"
+
+#: bp-activity-subscription-functions.php:2365
+#: bp-activity-subscription-functions.php:2370
+#: bp-activity-subscription-functions.php:2470
+msgid "Sunday"
+msgstr "Diumenge"
+
+#: bp-activity-subscription-functions.php:2370
+msgid ""
+"The server timezone is %s (%s); the current server time is %s (%s); and the "
+"day is %s."
+msgstr ""
+"La zona horària del servidor és %s (%s); l'hora actual del servidor es %s "
+"(%s); i el dia és %s"
+
+#: bp-activity-subscription-functions.php:2374
+msgid "Global Unsubscribe Link"
+msgstr "Enllaç de cancel·lació global de subscripcions"
+
+#: bp-activity-subscription-functions.php:2375
+msgid ""
+"Add a link in the emails and on the notifications settings page allowing "
+"users to unsubscribe from all their groups at once:"
+msgstr ""
+"Afegir un enllaç en els missatges de correu electrònic i en la pàgina de "
+"configuració de notificacions permetent als usuaris donar-se de baixa de "
+"tots els grups alhora:"
+
+#: bp-activity-subscription-functions.php:2377
+#: bp-activity-subscription-functions.php:2386
+#: bp-activity-subscription-functions.php:2391
+msgid "yes"
+msgstr "Si"
+
+#: bp-activity-subscription-functions.php:2378
+#: bp-activity-subscription-functions.php:2387
+#: bp-activity-subscription-functions.php:2392
+msgid "no"
+msgstr "No"
+
+#: bp-activity-subscription-functions.php:2383
+msgid "Group Admin Abilities"
+msgstr "Capacitats de l'Administrador del grup"
+
+#: bp-activity-subscription-functions.php:2384
+msgid ""
+"Allow group admins and mods to change members' email subscription settings: "
+msgstr ""
+"Permetre als Administradors i Moderadors de grup canviar la configuració de "
+"subscripció de correu electrònic dels seus membres:"
+
+#: bp-activity-subscription-functions.php:2389
+msgid ""
+"Allow group admins to override subscription settings and send an email to "
+"everyone in their group: "
+msgstr ""
+"Permetre als Administradors del grup canviar la configuració de subscripció "
+"i enviar correus electrònics a qualsevol membre del seu grup:"
+
+#: bp-activity-subscription-functions.php:2396
+msgid "Spam Prevention"
+msgstr "Prevenció contra SPAM"
+
+#: bp-activity-subscription-functions.php:2397
+msgid ""
+"To help protect against spam, you may wish to require a user to have been a "
+"member of the site for a certain amount of days before any group updates are "
+"emailed to the other group members. This is disabled by default."
+msgstr ""
+"Per ajudar a protegir contra el SPAM, podeu requerir que un usuari que hagi "
+"estat membre una certa quantitat determinada de dies abans de que les "
+"actualitzacions de grup s'enviïn per correu electrònic als altres membres "
+"del grup. Aquesta opció està deshabilitada per defecte."
+
+#: bp-activity-subscription-functions.php:2398
+msgid "Member must be registered for"
+msgstr "Cal que el membre hagi estat registrat mínim"
+
+#: bp-activity-subscription-functions.php:2398
+msgid "days"
+msgstr "dies"
+
+#: bp-activity-subscription-functions.php:2409
+msgid "If you enjoy using this plugin %s please rate it %s."
+msgstr "Si t'agrada l'ús d'aquesta extensió %s, si us plau puntúa'l %s."
+
+#: bp-activity-subscription-functions.php:2410
+msgid "Please make a donation to the team to support ongoing development."
+msgstr ""
+"Si us plau, feu una donació a l'equip per donar suport al desenvolupament.\" "
+
+#: bp-activity-subscription-main.php:22
+msgid "Email Options"
+msgstr "Opcions d'email"
+
+#: bp-activity-subscription-main.php:75
+msgid "Error"
+msgstr "Error"
+
+#. Plugin Name of the plugin/theme
+msgid "BuddyPress Group Email Subscription"
+msgstr "Subscripció per email dels grups de BuddyPress"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://wordpress.org/extend/plugins/buddypress-group-email-subscription/"
+msgstr ""
+"http://wordpress.org/extend/plugins/buddypress-group-email-subscription/"
+
+#. Description of the plugin/theme
+msgid ""
+"Allows group members to receive email notifications for group activity and "
+"forum posts instantly or as daily digest or weekly summary."
+msgstr ""
+"Permet als membres del grup rebre notificacions per correu electrònic per "
+"als missatges d'activitat del grup i els temes del fòrum immediatament o com "
+"a resum diari o resum setmanal\"."
+
+#. Author of the plugin/theme
+msgid "Deryk Wenaus, boonebgorges, r-a-y"
+msgstr "Deryk Wenaus, boonebgorges, r-a-y"
